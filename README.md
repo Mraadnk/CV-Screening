@@ -4,7 +4,8 @@ Workflow n8n buat ambil file CV (PDF), ekstrak isinya, kirim ke LLM buat dianali
 
 ## Alur Workflow
 
-![Workflow Canvas](assets/workflow-canvas.png)
+<img width="1183" height="312" alt="Screenshot 2026-11-24 091308" src="https://github.com/user-attachments/assets/eaa1c7f3-12aa-4044-aa92-b1c27f2c58a3" />
+
 
 - **When clicking 'Test workflow'**: Trigger manual buat ngetes jalan atau enggaknya alur.
 - **Set Variables**: Ngatur variabel atau input awal yang dipakai di proses berikutnya.
